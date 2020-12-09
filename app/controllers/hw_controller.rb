@@ -1,6 +1,5 @@
 class HwController < ApplicationController
-
-    def hello_world 
-        render 'hello_world'
-    end 
-end 
+    def hello_world
+      render 'hello_world'
+    end
+  end
